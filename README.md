@@ -16,3 +16,9 @@ Implementation of artificial intelligence learning tools that significantly impr
 ![Saraswati AI | Superhuman (AI) Teacher: All of Education, for All](/images/SuperhumanAI4AllTeacherv3.jpg)
 
 __This humanitarian AI project will be developed by the people, for the people.__ The Intelligence Foundation is preparing to offer academic training & conferences, prizes & recognitions and open research & publications. Technology: *Apprentissage actif (Curriculum Learning + OpenAI Gym + Meta-Learning + Neuroevolution + Reinforcement Learning) + Transformers (Self-Attention) + Symbolic AI (MCTS)*
+
+### Godfathers and Godmothers
+
+The Intelligence Foundation Charity is looking for corporate sponsorship, foundation grants, major gifts to support Saraswati AI. The Intelligence Foundation issues receipts for charitable donations under the number 85593 8502 RR0001.
+
+✉️ Make an impact on the world : patronage@intelligencefoundation.org
