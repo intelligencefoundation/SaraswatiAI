@@ -5,7 +5,7 @@
 
 ### Significance
 
-Solving UNESCO’s Educational Objectives to Support the Achievement of Education for All.__
+Solving UNESCO’s Educational Objectives to Support the Achievement of Education for All.
 
 ### Impact of the contribution
 
@@ -13,8 +13,6 @@ Implementation of artificial intelligence learning tools that significantly impr
 
 ![Saraswati AI | Superhuman (AI) Teacher: All of Education, for All](/images/SuperhumanAI4AllTeacherv3.jpg)
 
-__Saraswati AI__ will be combined with an agent learning to orchestrate synergies amongst academic disciplines.
+__Saraswati AI__ will be combined with *__Polymatheia AI__* an agent learning to orchestrate synergies amongst academic disciplines.
 
-__This humanitarian AI project will be developed by the people, for the people.__ The Intelligence Foundation is preparing to offer academic training & conferences, prizes & recognitions and open research & publications.
-
-Technology: *Apprentissage actif (Curriculum Learning + OpenAI Gym + Meta-Learning + Neuroevolution + Reinforcement Learning) + Transformers (Self-Attention) + Symbolic AI (MCTS)*
+__This humanitarian AI project will be developed by the people, for the people.__ The Intelligence Foundation is preparing to offer academic training & conferences, prizes & recognitions and open research & publications. Technology: *Apprentissage actif (Curriculum Learning + OpenAI Gym + Meta-Learning + Neuroevolution + Reinforcement Learning) + Transformers (Self-Attention) + Symbolic AI (MCTS)*
