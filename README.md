@@ -1,6 +1,8 @@
 # SaraswatiAI
 ## Superhuman (AI) Teacher: All of Education, for All
 
+ALL OF EDUCATION, FOR ALL. In collaboration with the Intelligence Foundation Charity, MONTREAL.AI is developing a teacher, *__Saraswati AI__*, and an agent learning to orchestrate synergies, *__Polymatheia AI__*, to inspire, support and train the people who will shape the 21st Century.
+
 "*(…) in full and equal opportunities for education for all (…)*" - Preamble to UNESCO’s Constitution
 
 ### Significance
