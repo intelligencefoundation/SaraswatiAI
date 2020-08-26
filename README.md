@@ -19,6 +19,6 @@ __This humanitarian AI project will be developed by the people, for the people._
 
 ### Godfathers and Godmothers
 
-The Intelligence Foundation Charity is looking for corporate sponsorship, foundation grants, major gifts to support Saraswati AI. The Intelligence Foundation issues receipts for charitable donations under the number 85593 8502 RR0001.
+The Intelligence Foundation is looking for corporate sponsorship, foundation grants, major gifts to support Saraswati AI. The Intelligence Foundation issues receipts for charitable donations under the number 85593 8502 RR0001.
 
 ✉️ Make an impact on the world : patronage@intelligencefoundation.org
