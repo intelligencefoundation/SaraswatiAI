@@ -11,4 +11,4 @@ __Saraswati AI__ will be combined with an agent learning to orchestrate synergie
 
 This humanitarian AI project will be developed by the people, for the people. The Intelligence Foundation is preparing to offer academic training & conferences, prizes & recognitions and open research & publications.
 
-Technology: Apprentissage actif (Curriculum Learning + OpenAI Gym + Meta-Learning + Neuroevolution + Reinforcement Learning) + Transformers (Self-Attention) + Symbolic AI (MCTS)
+Technology: *Apprentissage actif (Curriculum Learning + OpenAI Gym + Meta-Learning + Neuroevolution + Reinforcement Learning) + Transformers (Self-Attention) + Symbolic AI (MCTS)*
