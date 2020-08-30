@@ -22,7 +22,16 @@ In order to inspire, support and train the people who will shape the 21st Centur
 
 ### Technology
 
-#HumanitarianAI, #ActiveLearning, #CurriculumLearning, #DeepLearning, #MCTS, #MetaLearning, #OpenAIGym, #Neuroevolution, #ReinforcementLearning, #SelfAttention, #SelfSupervisedLearning, #SymbolicAI, #Transformers
+* Curriculum Learning
+* DeepLearning
+* MetaLearning
+* OpenAI Gym
+* Neuroevolution
+* Reinforcement Learning
+* Self-Attention
+* Self-Supervised Learning
+* Symbolic AI (*MCTS*)
+* Transformers
 
 Technology Readiness Level : TRL 2
 
