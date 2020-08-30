@@ -1,9 +1,14 @@
 # SaraswatiAI
-## Superhuman (AI) Teacher: All of Education, for All
 
-ALL OF EDUCATION, FOR ALL. In collaboration with the [Intelligence Foundation Charity](http://www.intelligence.tv/), [Montreal.AI](http://www.montreal.ai) is developing a teacher, *Saraswati AI*, and an agent learning to orchestrate synergies, *Polymatheia AI*, to inspire, support and train the people who will shape the 21st Century.
+## All of Education, for All
+
+### Humanitarian AI : Superhuman Teacher 
+
+ALL OF EDUCATION, FOR ALL. For the purpose of achieving all of education for all the [Intelligence Foundation Charity](http://www.intelligence.tv/), in collaboration with [Montreal.AI](http://www.montreal.ai), is developing a teacher, *Saraswati AI*, and an agent learning to orchestrate synergies, *Polymatheia AI*, to inspire, support and train the people who will shape the 21st Century.
 
 "*(…) in full and equal opportunities for education for all (…)*" - Preamble to UNESCO’s Constitution
+
+*Saraswati AI* is a novel, collaborative and open humanitarian AI project developed by the people,for the people. The Intelligence Foundation is preparing to offer academic training and conferences,prizes and recognitions and open research and publications.
 
 ### Significance
 
