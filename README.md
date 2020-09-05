@@ -33,6 +33,12 @@ In order to inspire, support and train the people who will shape the 21st Centur
 * Symbolic AI (*MCTS*)
 * Transformers
 
+#### Preliminary Considerations
+
+* Objective function design: Directly optimize for what we want.
+* Usage of functions which modify the target density to enable aggressive data augmentations.
+* Searching and Learning in the knowledge space with MCTS and Deep Reinforcement Learning.
+
 #### Preliminary Overview of Potentially Useful Technologies
 
 * *The Consciousness Prior*, Yoshua Bengio, 2019: https://arxiv.org/abs/1709.08568v2.
