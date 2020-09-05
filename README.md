@@ -53,8 +53,6 @@ In order to inspire, support and train the people who will shape the 21st Centur
 
 Technology Readiness Level : TRL 2
 
-Invite link to join MONTREAL.AI on Slack to help people coordinate : https://join.slack.com/t/montrealai/shared_invite/zt-f3586fu9-TsgE5tW5b8uE3cGmtrSgMw
-
 ### Significance
 
 Solving UNESCO’s Educational Objectives to Support the Achievement of Education for All.
@@ -64,3 +62,7 @@ Solving UNESCO’s Educational Objectives to Support the Achievement of Educatio
 The Intelligence Foundation is looking for corporate sponsorship, foundation grants, major gifts to support Saraswati AI. The Intelligence Foundation issues receipts for charitable donations under the number 85593 8502 RR0001.
 
 ✉️ Make an impact on the world : patronage@intelligencefoundation.org
+
+### MONTREAL.AI on Slack
+
+__Invite link__ to join MONTREAL.AI on Slack to help people coordinate : https://join.slack.com/t/montrealai/shared_invite/zt-f3586fu9-TsgE5tW5b8uE3cGmtrSgMw
