@@ -33,6 +33,18 @@ In order to inspire, support and train the people who will shape the 21st Centur
 * Symbolic AI (*MCTS*)
 * Transformers
 
+#### Preliminary Overview of Potentially Useful Technologies
+
+* *The Consciousness Prior*, Yoshua Bengio, 2019: https://arxiv.org/abs/1709.08568v2.
+* *Discovering   Symbolic   Models   from   Deep   Learning   with   Inductive   Biases*,    Cranmer   et   al.,    2020: https://arxiv.org/abs/2006.11287.
+* *Designing neural networks through neuroevolution*, Stanley et al., 2019: https://www.nature.com/articles/s42256-018-0006-z.pdf.
+* *AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence*, Jeff Clune, 2019: https://arxiv.org/abs/1905.10985.
+* *Predicting   What   You   Already   Know   Helps: Provable   Self-Supervised   Learning*,   Lee   et   al.,   2020: https://arxiv.org/abs/2008.01064.
+* *Illuminating search spaces by mapping elites*, Mouret, J.-B. and Clune, J., 2015: https://arxiv.org/abs/1504.04909.
+* *Combining  Deep  Reinforcement  Learning  and  Search  for  Imperfect-Information  Games*,  Brown  et  al.,  2020: https://arxiv.org/abs/2007.13544.
+* *Distribution Augmentation for Generative Modeling*, Jun et al., 2020: https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf.
+* *Evolving Machine Learning Algorithms From Scratch*, Real et al., 2020:https://arxiv.org/abs/2003.03384.
+
 Technology Readiness Level : TRL 2
 
 Invite link to join MONTREAL.AI on Slack to help people coordinate : https://join.slack.com/t/montrealai/shared_invite/zt-f3586fu9-TsgE5tW5b8uE3cGmtrSgMw
