@@ -49,6 +49,7 @@ In order to inspire, support and train the people who will shape the 21st Centur
 * *Illuminating search spaces by mapping elites*, Mouret, J.-B. and Clune, J., 2015: https://arxiv.org/abs/1504.04909.
 * *Combining  Deep  Reinforcement  Learning  and  Search  for  Imperfect-Information  Games*,  Brown  et  al.,  2020: https://arxiv.org/abs/2007.13544.
 * *Distribution Augmentation for Generative Modeling*, Jun et al., 2020: https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf.
+* *A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning*, Mundt et al., 2020: https://arxiv.org/abs/2009.01797.
 * *Evolving Machine Learning Algorithms From Scratch*, Real et al., 2020:https://arxiv.org/abs/2003.03384.
 
 Technology Readiness Level : TRL 2
