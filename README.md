@@ -48,6 +48,7 @@ In order to inspire, support and train the people who will shape the 21st Centur
 * *Predicting   What   You   Already   Know   Helps: Provable   Self-Supervised   Learning*,   Lee   et   al.,   2020: https://arxiv.org/abs/2008.01064.
 * *Illuminating search spaces by mapping elites*, Mouret, J.-B. and Clune, J., 2015: https://arxiv.org/abs/1504.04909.
 * *Generative Language Modeling for Automated Theorem Proving*,  Stanislas Polu and Ilya Sutskever,  2020: https://arxiv.org/abs/2009.03393.
+* *Learning to summarize from human feedback*,  Stiennon et al.,  2020: https://arxiv.org/abs/2009.01325.
 * *Transformer Reinforcement Learning*,  Leandro von Werra,  2020, GitHub: https://github.com/lvwerra/trl.
 * *Combining  Deep  Reinforcement  Learning  and  Search  for  Imperfect-Information  Games*,  Brown  et  al.,  2020: https://arxiv.org/abs/2007.13544.
 * *Distribution Augmentation for Generative Modeling*, Jun et al., 2020: https://proceedings.icml.cc/static/paper_files/icml/2020/6095-Paper.pdf.
